@@ -1,0 +1,3 @@
+2023-03-22 19:33:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM INCANTESIMO INCANTESIMO [*]INCANTESIMO"; SQL statement:
+SELECT * FROM INCANTESIMO INCANTESIMO INCANTESIMO [42000-214]
